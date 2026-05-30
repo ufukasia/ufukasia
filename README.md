@@ -1,22 +1,29 @@
 ## 👋 Hi, I'm Ufuk Asıl
 
-| **About**                                              | **Research & Engineering**        |
-| ------------------------------------------------------ | --------------------------------- |
-| 🎓 PhD – Computer Science                              | 🚁 Autonomous Drone Systems       |
-| 🎓 M.Sc. – Nanotechnology                              | 📍 VIO / SLAM / State Estimation  |
-| 🎓 B.Sc. – Mathematics                                 | 👁️ Computer Vision               |
-| 👨‍🏫 Assistant Professor @ Ostim Technical University | 🤖 AI for Robotics                |
-|                                                        | 🎮 Unreal Engine Drone Simulation |
-|                                                        | ⚡ Edge AI (Jetson)                |
+🎓 PhD – Computer Science
+🎓 M.Sc. – Nanotechnology
+🎓 B.Sc. – Mathematics
+
+👨‍🏫 Assistant Professor @ Ostim Technical University
 
 ---
 
-| **Simulation & Hardware**       | **Focus**                |
-| ------------------------------- | ------------------------ |
-| 🎮 Unreal Engine                | Real-world applicable AI |
-| 🧠 Cadence Virtuoso (IC Design) | GPS-denied navigation    |
-| 💻 Physical AI Systems          | Reproducible research    |
+### 🚀 Research & Engineering
+
+* Autonomous Drone Systems
+* Visual-Inertial Odometry (VIO) & SLAM
+* State Estimation (EKF / UKF / Hybrid)
+* Computer Vision & Image Processing
+* AI for Robotics
 
 ---
 
-📫 **Contact:** [ufuk.asil@ostimteknik.edu.tr](mailto:ufuk.asil@ostimteknik.edu.tr)
+### 🎮 Simulation & Hardware
+
+* Unreal Engine based drone simulation
+* Cadence Virtuoso (IC Design)
+* Physical AI systems & real-world deployment
+
+---
+
+📫 [ufuk.asil@ostimteknik.edu.tr](mailto:ufuk.asil@ostimteknik.edu.tr)
