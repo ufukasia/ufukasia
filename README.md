@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Ufuk Asıl
+## 👋 Hi, I'm Dr. Ufuk ASIL
 
 🎓 PhD – Computer Science
 🎓 M.Sc. – Nanotechnology
